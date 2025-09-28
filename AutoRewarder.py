@@ -19,8 +19,7 @@ CHROME_PROFILE_PATH = os.path.join(
 # chromedriver path
 CHROMEDRIVER_PATH = os.path.join(
     os.environ['USERPROFILE'],
-    'OneDrive',
-    'Рабочий стол',  #(desktop)
+    'desktop', 
     'python',
     'AutoRewarder',
     'chromedriver-win64',
@@ -139,4 +138,5 @@ def main():
 
 # standard entry point for the script
 if __name__ == "__main__":
+
     main()
