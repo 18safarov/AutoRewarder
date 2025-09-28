@@ -5,9 +5,16 @@ AutoRewarder is a Python script for automating search queries via Selenium WebDr
 # Purpose
 Educational and research purposes — testing, experiments with automation, and simulating user behavior.
 
-# ⚠️ IMPORTANT : 
-the script can be used to attempt automatic point-earning in programs like Microsoft Rewards or other loyalty/reward programs that grant points for searches. Such use typically violates the terms of service of those platforms and may result in account suspension, loss of accumulated points, or other penalties.
-The author does not encourage or support using the script to bypass rules, commit fraud, or gain unfair advantage. The script is provided only for educational and research purposes.
+## ⚠️ IMPORTANT DISCLAIMER
+
+This repository contains a search automation script provided **for educational and research purposes only**. The script *can be used* to automate web searches and may therefore be misused to attempt automatic point-earning in loyalty programs (for example Microsoft Rewards). Use of automation to interact with such services typically violates their Terms of Service and can result in account suspension, loss of points, or other penalties.
+
+**The author does NOT encourage or support using this script to bypass service rules, commit fraud, or gain an unfair advantage.** You are solely responsible for any consequences resulting from your use of this code. Use it only in controlled environments, with accounts and systems you own or have explicit permission to test.
+
+By using the code in this repository you acknowledge that:
+- You have read and understood the Terms of Service of any platform you interact with.
+- You will not use the code to violate those terms, to harm others, or to engage in illegal activity.
+
 
 # Functionality
 Generates unique search phrases from templates, topics, actions, and adjectives.
